@@ -35,6 +35,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative
 - [pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue
+- **[Coworker](https://github.com/leonjackman/coworker)** – Local-first AI coding assistant desktop app with MCP integration, multi-provider AI support, skills marketplace, and human-in-the-loop. Built with Electron, React, and LangGraph. MIT licensed.
 - [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror
 - [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Free, open-source alternative to v0.dev, cursor, bolt.new, windsurf, retool, roocode, kilo & lovable.dev. AI software development without limits
